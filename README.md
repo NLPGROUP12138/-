@@ -13,4 +13,3 @@
   - future work：
     - CLF by pure WE、CNN、RNN(+attn)、fastText、tf
     - MIT/QA by RNN(LSTM、GRU)、RNN+attn、tf
-
