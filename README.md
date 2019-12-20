@@ -12,5 +12,5 @@
     - MIT/QA：RNN、tf->test on BLEU/SQuAD
   - future work：
     - CLF by pure WE、CNN、RNN(+attn)、fastText、tf
-    - MIT/QA by RNN(LSTM、GRU)、RNN+attn、tf 
+    - MIT/QA by RNN(LSTM、GRU)、RNN+attn、tf
 
