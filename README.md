@@ -6,10 +6,11 @@
 - __PyTorch_forNLP__----pytorch学习代码
   - env：python3.6+pytorch1.1，jupyter notebook
   - goal：按官方tutorial学习pytorch，力求实现CS224n中所有任务模型
-    - word representation：word2vec/cbow、glove、EMLo、tf、BERT
-    - classification：NER、POS etc.
-    - LM：a benchmark，I have tried an MLG
-    - MIT：test on BLEU
-    - QA：test on SQuAD
+    - word representation：word2vec/cbow(done)、glove、EMLo、tf、BERT
+    - classification(NER、POS etc.)：traditional model(done)、CNN、RNN
+    - LM：have tried LSTM for MLG(done)
+    - MIT/QA：RNN、tf->test on BLEU/SQuAD
   - future work：
+    - CLF by pure WE、CNN、RNN(+attn)、fastText、tf
+    - MIT/QA by RNN(LSTM、GRU)、RNN+attn、tf 
 
