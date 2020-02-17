@@ -14,4 +14,4 @@
     - CLF by pure WE、CNN、RNN(+attn)、fastText、tf
     - MIT/QA by RNN(LSTM、GRU)、RNN+attn、tf
 
-### This repo has moved [here](https://github.com/qwjaskzxl/pytorch-practice)
+### This repo has been moved [here](https://github.com/qwjaskzxl/pytorch-practice)
